@@ -1,0 +1,15 @@
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/bin/Debug/net7.0/MyConsole
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/bin/Debug/net7.0/MyConsole.deps.json
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/bin/Debug/net7.0/MyConsole.runtimeconfig.json
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/bin/Debug/net7.0/MyConsole.dll
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/bin/Debug/net7.0/MyConsole.pdb
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/obj/Debug/net7.0/MyConsole.csproj.AssemblyReference.cache
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/obj/Debug/net7.0/MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/obj/Debug/net7.0/MyConsole.AssemblyInfoInputs.cache
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/obj/Debug/net7.0/MyConsole.AssemblyInfo.cs
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/obj/Debug/net7.0/MyConsole.csproj.CoreCompileInputs.cache
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/obj/Debug/net7.0/MyConsole.dll
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/obj/Debug/net7.0/refint/MyConsole.dll
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/obj/Debug/net7.0/MyConsole.pdb
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/obj/Debug/net7.0/MyConsole.genruntimeconfig.cache
+/Users/sabs/Desktop/Git Test/FirstProject/MyConsole/MyConsole/obj/Debug/net7.0/ref/MyConsole.dll
